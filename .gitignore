@@ -1,0 +1,6 @@
+# Ignore local generated chart images
+*.png
+
+# Ignore Python cache folders
+__pycache__/
+*.pyc
