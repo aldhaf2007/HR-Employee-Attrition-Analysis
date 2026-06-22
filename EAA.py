@@ -29,24 +29,24 @@ emp.columns = emp.columns.str.replace(" ", "_")
 ##Data Cleaning & Quality Assessment
 
 # 1. Missing Data Handling
-print("--- Missing Values Count ---")
+#print("--- Missing Values Count ---")
 print(emp.isnull().sum())
 emp.dropna(inplace=True)  # Removes rows containing missing fields safely
 
 # 2. Duplicate Removal
-print(f"\nTotal Duplicated Rows Found: {emp.duplicated().sum()}")
+#print(f"\nTotal Duplicated Rows Found: {emp.duplicated().sum()}")
 emp.drop_duplicates(inplace=True)  # Drops identical row copies
 
 
 # 3. Categorical Values Standardization
-print("\nUnique Cities Before Strip:", emp["City"].unique())
-print("Unique Genders:", emp["Gender"].unique())
+#print("\nUnique Cities Before Strip:", emp["City"].unique())
+#print("Unique Genders:", emp["Gender"].unique())
 emp["City"] = emp["City"].str.strip()  # Fixes hidden trailing/leading spaces
 
 
 # 4. Outlier Analysis & Descriptive Statistics
-print("\n--- Structural Summary Statistics ---")
-print(emp.describe())
+#print("\n--- Structural Summary Statistics ---")
+#print(emp.describe())
 
 
 ##Statistical Aggregation (GroupBy Analysis)
