@@ -13,6 +13,20 @@ A data analysis project built with Pandas and Matplotlib to uncover insights int
 
   OUTPUT
 
+<img width="615" height="695" alt="Screenshot_2026-06-17_23-03-35" src="https://github.com/user-attachments/assets/a6d6fc32-6ece-4e26-8a0b-e4ce3fa3c4e9" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <img width="640" height="480" alt="1_attrition_by_city" src="https://github.com/user-attachments/assets/b8012e57-639e-415b-b8d2-3c03d62033f3" />
