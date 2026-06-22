@@ -7,16 +7,16 @@ A data analysis project built with Pandas and Matplotlib to uncover insights int
 * `EAA.py` - Main data pipeline handling data cleaning and strategic `.groupby()` aggregations.
 * `plots.py` - Modular visualization dashboard component generating independent display window frames.
 
-###Environment
-*pyhton3.
-*ipython.
-*linux.
-
+### Environment
+* pyhton3.
+* ipython.
+* linux.
+  
 ## Key Insights Discovered
 * **2018 Cohort Anomaly:** Employees onboarding in 2018 faced an unprecedented $97.9\%$ attrition rate.
 * **Mid-Tier Risk Spikes:** High turnover is heavily centralized among Payment Tier 2 employees, particularly affecting female staff ($70.3\%$ attrition) and the Pune office hub ($50.9\%$).
 
-##OUTPUT
+## OUTPUT
 
 <img width="615" height="695" alt="Screenshot_2026-06-17_23-03-35" src="https://github.com/user-attachments/assets/a6d6fc32-6ece-4e26-8a0b-e4ce3fa3c4e9" />
 
@@ -31,7 +31,7 @@ A data analysis project built with Pandas and Matplotlib to uncover insights int
 
 
 
-###Charts output
+### Charts output
 
 
 <img width="640" height="480" alt="1_attrition_by_city" src="https://github.com/user-attachments/assets/b8012e57-639e-415b-b8d2-3c03d62033f3" />
