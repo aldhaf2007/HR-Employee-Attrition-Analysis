@@ -17,7 +17,7 @@ A data analysis project built with Pandas and Matplotlib to uncover insights int
 * **Mid-Tier Risk Spikes:** High turnover is heavily centralized among Payment Tier 2 employees, particularly affecting female staff ($70.3\%$ attrition) and the Pune office hub ($50.9\%$).
 
 ## OUTPUT
- ### OUTPUT:INSGHTS
+ ### OUTPUT:INSIGHTS
 <img width="615" height="695" alt="Screenshot_2026-06-17_23-03-35" src="https://github.com/user-attachments/assets/a6d6fc32-6ece-4e26-8a0b-e4ce3fa3c4e9" />
 
 
