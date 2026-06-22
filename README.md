@@ -26,7 +26,7 @@ A data analysis project built with Pandas and Matplotlib to uncover insights int
 
 
 
-
+Charts output:
 
 
 <img width="640" height="480" alt="1_attrition_by_city" src="https://github.com/user-attachments/assets/b8012e57-639e-415b-b8d2-3c03d62033f3" />
