@@ -11,6 +11,9 @@ A data analysis project built with Pandas and Matplotlib to uncover insights int
 * pyhton3.
 * ipython.
 * linux.
+
+#### Runing The code
+* python3 EAA.py - run it on terminal or any other platfrom that run python script
   
 ## Key Insights Discovered
 * **2018 Cohort Anomaly:** Employees onboarding in 2018 faced an unprecedented $97.9\%$ attrition rate.
